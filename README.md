@@ -15,8 +15,23 @@
 
 <br/>
 
+<<<<<<< HEAD
 <!-- 🎀 BADGE ROW -->
 ![Profile Views](https://komarev.com/ghpvc/?username=elaherawati&color=FF6B9D&style=for-the-badge&label=✨+VISITORS)
+=======
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
+<!-- PROFILE VIEWS + FOLLOWERS -->
+![Profile Views](https://komarev.com/ghpvc/?username=elaherawati&color=FF6B9D&style=for-the-badge&label=PROFILE+VIEWS)
+>>>>>>> 05685914c5fcc8770ca8db53dd187ba344370c27
 &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/elaherawati?style=for-the-badge&color=00C896&labelColor=f0fff8&label=🌿+FOLLOWERS)
 &nbsp;
@@ -189,6 +204,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=safari&logoColor=white&labelColor=00C896)](https://elaherawati.dev)
 [![Discord](https://img.shields.io/badge/Discord-4ECDC4?style=for-the-badge&logo=discord&logoColor=white&labelColor=4ECDC4)](https://discord.com/users/elaherawati)
 
+<<<<<<< HEAD
 <br/><br/>
 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="60"/>
@@ -241,3 +257,6 @@
 │  4. Stats cards hanya akurat jika repo kamu PUBLIC                  │
 └─────────────────────────────────────────────────────────────────────┘
 -->
+=======
+</div>
+>>>>>>> 05685914c5fcc8770ca8db53dd187ba344370c27
